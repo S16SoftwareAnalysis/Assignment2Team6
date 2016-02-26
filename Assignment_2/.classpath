@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-benchmark-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-classification-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-demo-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-misc-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queries-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-replicator-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-suggest-5.4.1.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
